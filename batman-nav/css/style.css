@@ -373,6 +373,7 @@ p {
   border: 1px solid transparent;
   margin-top:50px;
   padding-top: 25px;
+  color: white;
 }
 
 .funcs:hover{
@@ -436,6 +437,9 @@ p {
   background-color: white;
   color:black !important;
   
+}
+.icone{
+  font-size:180px;
 }
 #rodape {
     background-color: #000;
